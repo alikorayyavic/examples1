@@ -1,2 +1,2 @@
-x= int(input("bir sayi giriniz"))
+x= int(input("Enter a number for print"))
 print (x)
