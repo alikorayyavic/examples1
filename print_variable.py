@@ -1,0 +1,2 @@
+a="mayk"
+print(a)
