@@ -1,10 +1,10 @@
-x= int(input("bir sayi giriniz"))
+x= int(input("Enter a number"))
 if x <200 :
-	print("kucuk")
+	print("less than 200")
 	x=500
 elif x>500:
-	print ("buyuk")
+	print ("greater than 500")
 else:
-	print ("arada")	
+	print ("Between 200 and 500")	
 	
-	print("x ' in yeni degeri" + str(x))
+	print("New value of x :" + str(x))
