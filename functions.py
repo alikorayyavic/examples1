@@ -3,11 +3,11 @@ def f(x):
 	
 print(f(8))
 
-def hi(parametre):
-	if(type(parametre)==int):
-		print("hi"+str(parametre))
+def hi(parameter):
+	if(type(parameter)==int):
+		print("hi"+str(parameter))
 	else:	
-		print("hi"+parametre)
+		print("hi"+parameter)
 
 hi("koray")
 hi("ali")
